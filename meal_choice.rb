@@ -3,4 +3,3 @@
 def meal_choice(arg1 = "meat")
   puts "#{arg1}"
 end
-meal_choice
